@@ -1,4 +1,4 @@
-<!doctype html="module">
+<!doctype html>
   import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm";
 
   const SUPABASE_URL = "여기에_프로젝트_URL";
